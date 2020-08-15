@@ -11,6 +11,8 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		140D019CD5E3476B98F1F6F1 /* SFProText-Semibold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0900DA75A18845C4B2C3C19E /* SFProText-Semibold.ttf */; };
+		1ED895427DE64C1FA3E6BFCD /* SFProText-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 27C6AB25ADAB45F5BA51F19F /* SFProText-Bold.ttf */; };
 		2C8B37A0F7831D064DA04229 /* libPods-advanced_flatlist_shoes_tsx-advanced_flatlist_shoes_tsxTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1852A80D88797DAE1F8D7947 /* libPods-advanced_flatlist_shoes_tsx-advanced_flatlist_shoes_tsxTests.a */; };
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
@@ -18,9 +20,7 @@
 		2DCD954D1E0B4F2C00145EB5 /* advanced_flatlist_shoes_tsxTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* advanced_flatlist_shoes_tsxTests.m */; };
 		722CCDAD412A29E6D26CBF22 /* libPods-advanced_flatlist_shoes_tsx.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5C85F5CF575DD62AC11C0737 /* libPods-advanced_flatlist_shoes_tsx.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		1ED895427DE64C1FA3E6BFCD /* SFProText-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 27C6AB25ADAB45F5BA51F19F /* SFProText-Bold.ttf */; };
 		EA60994939B947218FA60C52 /* SFProText-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BCE972D77D7349F987ABAE29 /* SFProText-Regular.ttf */; };
-		140D019CD5E3476B98F1F6F1 /* SFProText-Semibold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0900DA75A18845C4B2C3C19E /* SFProText-Semibold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +46,7 @@
 		00E356EE1AD99517003FC87E /* advanced_flatlist_shoes_tsxTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = advanced_flatlist_shoes_tsxTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* advanced_flatlist_shoes_tsxTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = advanced_flatlist_shoes_tsxTests.m; sourceTree = "<group>"; };
+		0900DA75A18845C4B2C3C19E /* SFProText-Semibold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SFProText-Semibold.ttf"; path = "../src/assets/fonts/SFProText-Semibold.ttf"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* advanced_flatlist_shoes_tsx.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = advanced_flatlist_shoes_tsx.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = advanced_flatlist_shoes_tsx/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = advanced_flatlist_shoes_tsx/AppDelegate.m; sourceTree = "<group>"; };
@@ -53,18 +54,17 @@
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = advanced_flatlist_shoes_tsx/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = advanced_flatlist_shoes_tsx/main.m; sourceTree = "<group>"; };
 		1852A80D88797DAE1F8D7947 /* libPods-advanced_flatlist_shoes_tsx-advanced_flatlist_shoes_tsxTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-advanced_flatlist_shoes_tsx-advanced_flatlist_shoes_tsxTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		27C6AB25ADAB45F5BA51F19F /* SFProText-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SFProText-Bold.ttf"; path = "../src/assets/fonts/SFProText-Bold.ttf"; sourceTree = "<group>"; };
 		2D02E47B1E0B4A5D006451C7 /* advanced_flatlist_shoes_tsx-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "advanced_flatlist_shoes_tsx-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D02E4901E0B4A5D006451C7 /* advanced_flatlist_shoes_tsx-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "advanced_flatlist_shoes_tsx-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5C85F5CF575DD62AC11C0737 /* libPods-advanced_flatlist_shoes_tsx.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-advanced_flatlist_shoes_tsx.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E511FB5218F27522824EAD6 /* Pods-advanced_flatlist_shoes_tsx.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-advanced_flatlist_shoes_tsx.debug.xcconfig"; path = "Target Support Files/Pods-advanced_flatlist_shoes_tsx/Pods-advanced_flatlist_shoes_tsx.debug.xcconfig"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = advanced_flatlist_shoes_tsx/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		BCE972D77D7349F987ABAE29 /* SFProText-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SFProText-Regular.ttf"; path = "../src/assets/fonts/SFProText-Regular.ttf"; sourceTree = "<group>"; };
 		C1F63A4ECBC308D4FE8A6C0A /* Pods-advanced_flatlist_shoes_tsx-advanced_flatlist_shoes_tsxTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-advanced_flatlist_shoes_tsx-advanced_flatlist_shoes_tsxTests.release.xcconfig"; path = "Target Support Files/Pods-advanced_flatlist_shoes_tsx-advanced_flatlist_shoes_tsxTests/Pods-advanced_flatlist_shoes_tsx-advanced_flatlist_shoes_tsxTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
 		F5E0D78BC782CA7329655685 /* Pods-advanced_flatlist_shoes_tsx.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-advanced_flatlist_shoes_tsx.release.xcconfig"; path = "Target Support Files/Pods-advanced_flatlist_shoes_tsx/Pods-advanced_flatlist_shoes_tsx.release.xcconfig"; sourceTree = "<group>"; };
-		27C6AB25ADAB45F5BA51F19F /* SFProText-Bold.ttf */ = {isa = PBXFileReference; name = "SFProText-Bold.ttf"; path = "../src/assets/fonts/SFProText-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		BCE972D77D7349F987ABAE29 /* SFProText-Regular.ttf */ = {isa = PBXFileReference; name = "SFProText-Regular.ttf"; path = "../src/assets/fonts/SFProText-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		0900DA75A18845C4B2C3C19E /* SFProText-Semibold.ttf */ = {isa = PBXFileReference; name = "SFProText-Semibold.ttf"; path = "../src/assets/fonts/SFProText-Semibold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -151,7 +151,6 @@
 				00C7B10257003855767DD8B1 /* Pods-advanced_flatlist_shoes_tsx-advanced_flatlist_shoes_tsxTests.debug.xcconfig */,
 				C1F63A4ECBC308D4FE8A6C0A /* Pods-advanced_flatlist_shoes_tsx-advanced_flatlist_shoes_tsxTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -190,7 +189,7 @@
 			sourceTree = "<group>";
 		};
 		8AEBAE44CE0A4A91B3727E66 /* Resources */ = {
-			isa = "PBXGroup";
+			isa = PBXGroup;
 			children = (
 				27C6AB25ADAB45F5BA51F19F /* SFProText-Bold.ttf */,
 				BCE972D77D7349F987ABAE29 /* SFProText-Regular.ttf */,
@@ -198,7 +197,6 @@
 			);
 			name = Resources;
 			sourceTree = "<group>";
-			path = "";
 		};
 /* End PBXGroup section */
 
