@@ -1,6 +1,0 @@
-module Pods_advanced_flatlist_shoes_tsx {
-  umbrella header "Pods-advanced_flatlist_shoes_tsx-umbrella.h"
-
-  export *
-  module * { export * }
-}
