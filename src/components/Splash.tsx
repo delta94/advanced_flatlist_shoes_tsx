@@ -15,7 +15,7 @@ const Splash = ({ children, setStartScroll }: any) => {
   useEffect(() => {
     Animated.timing(loadingProgress, {
       toValue: 100,
-      duration: 1000,
+      duration: 480,
       useNativeDriver: true,
       delay: 2000
     }).start(() => {

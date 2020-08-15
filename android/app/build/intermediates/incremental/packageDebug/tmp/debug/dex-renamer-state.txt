@@ -1,4 +1,4 @@
-#Sat Aug 15 10:35:43 BRT 2020
+#Sat Aug 15 11:28:46 BRT 2020
 base.0=/Users/diegol/Desktop/React_Native_Projects/advanced_flatlist_shoes_tsx/advanced_flatlist_shoes_tsx/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
